@@ -1,3 +1,2 @@
-export RUBYOPT="rubygems"
-export RUBYLIB="."
-rvm default@constant_contact
+rvm use --create ruby-1.9.2-head@constant_contact
+
